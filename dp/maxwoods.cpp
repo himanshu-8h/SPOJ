@@ -1,4 +1,6 @@
 // Created by  himanshu8h
+/* MAXWOODS - MAXIMUM WOOD CUTTER
+	problem code MAXWOODS*/
 #include <bits/stdc++.h>
 
 #define db1(x) cout<<#x<<"="<<x<<'\n'
